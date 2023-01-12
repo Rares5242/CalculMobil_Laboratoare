@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laborator1_Introducere</string>
+    <string name="prenume">Prenume</string>
+    <string name="inregistrare">Inregistrare</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="prenumeText">Prenume:</string>
+    <string name="numeText">Nume:</string>
+    <string name="e_mailText">E-mail</string>
+    <string name="nume">Nume</string>
+</resources>
